@@ -1,6 +1,7 @@
 # Hi 👋
 
 ### 🌱 I’m currently learning
+- Statistics
 - Data Analysis
 - Machine Learning, Deep Learning
 - Natural Language Processing
