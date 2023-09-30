@@ -8,7 +8,7 @@
 
 ### 📚 Education
 - 2023.09 ~ ing.  연세대학교 정보대학원 비즈니스 빅데이터 분석 석사과정 ([ANDlab](https://andlab.yonsei.ac.kr/))
-- 2019.03 ~ 2023.08  연세대학교 미래캠퍼스 정보통계학, 벤처학 연계전공
+- 2019.03 ~ 2023.08  연세대학교 미래캠퍼스 정보통계학, 신촌캠퍼스 벤처학 연계전공 (GPA: 4.13/4.5)
 - 2016.03 ~ 2019.02  서울광남고등학교
 
 ### 💡 Experience
@@ -25,7 +25,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 - Tool: SAS, SPSS, QGIS, Tableau, Rapid miner
 
-### 🔗 Certificate
+### 🎖️ Certificate
 - ADsP (데이터 분석 준전문가)
 - SQLD (SQL 개발자)
 - SAS® Academic Specialization in Data Science
