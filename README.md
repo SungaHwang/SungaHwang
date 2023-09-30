@@ -16,3 +16,11 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 - Tool: SAS, SPSS, QGIS, Tableau
+- 
+### 🔗 Certificate
+- ADsP (데이터 분석 준전문가)
+- SQLD (SQL 개발자)
+- SAS® Academic Specialization in Data Science
+- 빅데이터분석기사
+- 사회조사분석사 2급 (필기)
+- TOEFL, TOEIC
