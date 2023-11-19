@@ -20,10 +20,8 @@
 - 2022.03 ~ 2022.08 일본 (Sophia Univ.) 교환학생
 
 ### 📌 Language & Tool
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-- Tool: SAS, SPSS, QGIS, Tableau, Rapid miner
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SungaHwang&layout=compact&hide=jupyter%20notebook)](https://github.com/delay-100/github-readme-stats)
+- Tool: MySQL, SAS, SPSS, QGIS, Tableau, Rapid miner
 
 ### 🎖️ Certificate
 - ADsP (데이터 분석 준전문가)
