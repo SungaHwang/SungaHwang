@@ -3,8 +3,8 @@
 ### 🌱 I’m currently learning
 - Statistics
 - Data Analysis
-- Machine Learning, Deep Learning
 - Natural Language Processing
+- Efficient AI
 
 ### 📚 Education
 - 2016.03 ~ 2019.02  서울광남고등학교
