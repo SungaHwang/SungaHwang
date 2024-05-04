@@ -4,7 +4,7 @@
 - Statistics
 - Data Analysis
 - Natural Language Processing
-- Model Optimization
+- Model Optimization
 
 ### 📚 Education
 - 2016.03 ~ 2019.02  서울광남고등학교
