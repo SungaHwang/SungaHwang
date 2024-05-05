@@ -13,4 +13,3 @@
 
 ### 📌 Language & Tool
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SungaHwang&layout=compact&hide=jupyter%20notebook)](https://github.com/delay-100/github-readme-stats)
-- Tool: MySQL, SAS, SPSS, QGIS, Tableau, Rapid miner
