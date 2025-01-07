@@ -3,7 +3,7 @@
 ### 🌱 I’m currently learning
 - Statistics
 - Data Analysis
-- Natural Language Processing
+- AI Service
 - Model Optimization
 
 ### 📚 Education
